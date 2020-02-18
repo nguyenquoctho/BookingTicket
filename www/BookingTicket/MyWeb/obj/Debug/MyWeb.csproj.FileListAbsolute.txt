@@ -1,0 +1,28 @@
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.dll
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.pdb
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\CKFinder.dll
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\FredCK.FCKeditorV2.dll
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Business.dll
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Common.dll
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Data.dll
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Business.pdb
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Common.pdb
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Data.pdb
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\CKFinder.pdb
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\obj\Debug\MyWeb.csprojResolveAssemblyReference.cache
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\obj\Debug\MyWeb.dll
+C:\Users\tuanx_000\Desktop\Booking Ticket 26112013\www\BookingTicket\MyWeb\obj\Debug\MyWeb.pdb
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.dll
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.pdb
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\CKFinder.dll
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\FredCK.FCKeditorV2.dll
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Business.dll
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Common.dll
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Data.dll
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Business.pdb
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Common.pdb
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\MyWeb.Data.pdb
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\bin\CKFinder.pdb
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\obj\Debug\MyWeb.csprojResolveAssemblyReference.cache
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\obj\Debug\MyWeb.dll
+E:\Working\Project\Source Code\NET\Booking Ticket 26112013\www\BookingTicket\MyWeb\obj\Debug\MyWeb.pdb
